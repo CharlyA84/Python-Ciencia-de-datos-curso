@@ -1,0 +1,17 @@
+# Asignar el valor 2022 a la variable start_year
+start_year = 2022
+
+# Mostrar su valor
+print(start_year)
+
+# Mostrar el tipo de variable
+print(type(start_year))
+
+# Asignar el valor "Hasta pronto" a la variable goodbye_message
+goodbye_message = "Hasta pronto"
+
+# Mostrar su valor
+print(goodbye_message)
+
+# Mostrar el tipo de variable
+print(type(goodbye_message))
