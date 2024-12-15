@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Condicionales (if, else, elif)", "Condicionales (if, else, elif)\Condicionales (if, else, elif).pyproj", "{B59C5882-1BB0-4EF0-BC9C-4238A9EAE624}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B59C5882-1BB0-4EF0-BC9C-4238A9EAE624}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B59C5882-1BB0-4EF0-BC9C-4238A9EAE624}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C93C9DBB-065F-4B56-9725-08ADD68AE723}
+	EndGlobalSection
+EndGlobal
